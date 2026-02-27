@@ -1,0 +1,5 @@
+{
+  "name": "Dutch Pay Master",
+  "description": "A smart, visual bill splitting application that creates individual receipts for each person. Features real-time calculation and AI-powered spending analysis.",
+  "requestFramePermissions": []
+}
