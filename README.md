@@ -25,7 +25,7 @@
 1. **저장소 복제**
    터미널에서 다음 명령어를 입력하여 프로젝트를 복제합니다.
    ```bash
-   git clone [저장소 URL]
+   git clone https://github.com/Zanviq/Bill-Splitter
    cd [프로젝트 폴더명]
    ```
 
@@ -40,4 +40,5 @@
    ```bash
    npm run dev
    ```
+
    실행 후 브라우저에서 `http://localhost:3000`으로 접속합니다.
